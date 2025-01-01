@@ -48,3 +48,10 @@ Join our community of developers creating universal apps.
 
 - [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
 - [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+
+## Resources:
+https://www.nativewind.dev/getting-started/typescript
+https://docs.expo.dev/get-started/set-up-your-environment/
+https://reactnative.dev/docs/environment-setup
+https://www.youtube.com/watch?v=ZBCUegTZF7M&ab_channel=JavaScriptMastery
+
